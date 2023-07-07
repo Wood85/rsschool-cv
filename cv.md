@@ -5,9 +5,9 @@
 * __Location:__ Russia, Nijni Novgorod
 * __Phone:__ +79616368666
 * __Email:__ megalistnn@gmail.com
-* __GitHub:__ Wood85
+* __GitHub:__ [Wood85](https://github.com/Wood85)
 
-## About me: 
+## About me 
 my main aim is to become a frontend developer and grow as a professional.  I hope dedication and perseverance, as well as rsschool, will help me achieve this aim.  At the moment, there is no commercial development experience, but there is a huge desire to gain knowledge in this area
 
 ## Skills
