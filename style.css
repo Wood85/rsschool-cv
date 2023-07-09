@@ -3,3 +3,97 @@
   margin: 0;
   padding: 0;
 }
+
+li {
+  list-style-type: none;
+}
+
+h2 {
+  color: #0c51af;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  color: #ffffff;
+  background: #182751;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  width: 80%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  background: #090a26;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 40px 0 40px;
+  padding: 30px;
+}
+
+.title {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.title__photo {
+  height: 100px;
+  width: 134px;
+  border-radius: 50%;
+}
+
+.title__img {
+  height: 100px;
+  width: 134px;
+  border-radius: 50%;
+}
+
+.block {
+  margin-bottom: 30px;
+}
+
+.code-example__container {
+  position: relative;
+  height: 200px;
+  background: #000000;
+}
+
+.code-example__content {
+  position: absolute;
+  top: 0;
+  left: -330px;
+  height: 100px;
+  width: 100px;
+  padding: 0 30px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #090a26;
+}
+
+.project__link,
+.my-github__link {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
